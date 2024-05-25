@@ -1,2 +1,2 @@
 # 1_testrepo
-> test_repo updated from intellij
+> test_repo from ghd
