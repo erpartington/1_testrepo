@@ -1,2 +1,2 @@
 # 1_testrepo
-> test_repo from ghd
+> test_repo from ghd2
