@@ -1,2 +1,3 @@
 # 1_testrepo
-> test from intelliJ
+> git pushed
+> intelliJ pushed
